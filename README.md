@@ -1,6 +1,6 @@
 ### I'm Atsushi :blush:
 
-Software Engineer who loves building applications and learning new skills. Having experience applying machine learning and integrate it into API. Life-long learner. Continuously adding new skills and projects!
+Software Engineer who loves building applications and learning new skills. Having experience applying machine learning and inplementing RESTAPIs. Life-long learner. Continuously adding new skills and projects!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atsushii&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atsushii&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
