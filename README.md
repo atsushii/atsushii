@@ -1,4 +1,4 @@
-# Hey, I'm Atsushi :blush: #
+# Hi, I'm Atsushi :blush: #
 
 
 I’m a Software Engineer who loves building applications. Having experience working more than 1-year working experience as a Professional. Love new technology and have the curiosity to learn new things! Life-long learner, who continually adds new skills and projects
