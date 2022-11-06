@@ -1,7 +1,7 @@
 # Hi, I'm Atsushi :blush: #
 
 
-I’m a Software Engineer who loves building applications. Having working experience more than 1-year as a Backend Engineer. Love new technology and have the curiosity to learn new things! Life-long learner, who continually adds new skills and projects
+I’m a Software Engineer who loves building applications. Having working experience more than 2-year. Love new technology and have the curiosity to learn new things! Life-long learner, who continually adds new skills and projects.
 
 - 📩 Reach me out: atsushimiyamoto07@gmail.com 
 
