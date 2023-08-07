@@ -1,10 +1,8 @@
 # Hi there 🍣 I'm Atsushi
 
-Software Engineer with 2 years of experience focusing on the backend and infrastructure. Regularly writes dev.to the article what I learned.
-Perssionating to build something new to solve problems.
+Software Engineer with 2 years of experience focusing on the backend and infrastructure.　Passionate about sharing knowledge and regularly contributing articles to dev.to, detailing my learning experiences. Dedicated to innovating and creating solutions to address real-world challenges.
 
-Currently, building on MigratusAI to help people migrate overseas with less cost and missed opportunities.
-
+Currently, building on MigratusAI to aimed at facilitating cost-effective and efficient overseas migration, minimizing missed opportunities for individuals.
 
 📩 Contact:
 - atsushimiyamoto07@gmail.com
