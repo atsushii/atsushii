@@ -2,7 +2,7 @@
 
 Software Engineer with 2 years of experience focusing on the backend and infrastructure. Passionate about sharing knowledge and regularly contributing articles to dev.to, detailing my learning experiences. Dedicated to innovating and creating solutions to address real-world challenges.
 
-Building on
+🧑🏻‍💻 Building on
 - [MigratusAI](https://www.migratusai.com/)
 - [ClearifyAI](https://true-employee-242413.framer.app/)
 
