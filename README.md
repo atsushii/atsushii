@@ -4,7 +4,7 @@ Software Engineer with 2 years of experience focusing on the backend and infrast
 
 🧑🏻‍💻 Building on
 - [MigratusAI](https://www.migratusai.com/)
-- [ClearifyAI](https://clearifyai.framer.website/)
+- [Ship2Post](https://ship2post.framer.ai/)
 
 
 📩 Contact:
