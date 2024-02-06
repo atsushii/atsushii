@@ -10,8 +10,6 @@ Software Engineer with 3 years of experience focusing on the backend and infrast
 📩 Contact:
 - atsushimiyamoto07@gmail.com
 - [Resume](https://resume.creddle.io/resume/bkhje2sa14q)
-- [X](https://twitter.com/Jun92587994)
-- [LinkedIn](https://linkedin.com/in/atsushi-miyamoto-aa38a3180)
 - [Linktree](https://linktr.ee/atsushiii)
 
 🦄 Current contributes:
