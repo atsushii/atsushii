@@ -3,7 +3,7 @@
 Software Engineer with 3 years of experience focusing on the backend and infrastructure. Passionate about sharing knowledge and regularly contributing articles to dev.to, detailing my learning experiences. Dedicated to innovating and creating solutions to address real-world challenges.
 
 🧑🏻‍💻 Building on
-- [MigratusAI](https://www.migratusai.com/)
+- [AnyNomad](https://www.anynomad.xyz/)
 - [Ship2Post](https://ship2post.framer.ai/)
 
 
