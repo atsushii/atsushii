@@ -4,7 +4,7 @@ Software Engineer with 3 years of experience focusing on the backend and infrast
 
 🧑🏻‍💻 Building on
 - [AnyNomad](https://www.anynomad.xyz/)
-- [Ship2Post](https://ship2post.framer.ai/)
+- [FloatAI](https://floatai.vercel.app/)
 
 
 📩 Contact:
