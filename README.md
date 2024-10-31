@@ -3,8 +3,7 @@
 Software Engineer with 3 years of experience focusing on the backend and infrastructure. Passionate about sharing knowledge and regularly contributing articles to dev.to, detailing my learning experiences. Dedicated to innovating and creating solutions to address real-world challenges.
 
 🧑🏻‍💻 Building on
-- [AnyNomad](https://www.anynomad.xyz/)
-- [FloatAI](https://floatai.vercel.app/)
+- [LinkaBot](https://linkabot.vercel.app/)
 
 
 📩 Contact:
