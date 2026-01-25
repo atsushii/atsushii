@@ -1,8 +1,10 @@
 # Hi there 🍣 I'm Atsushi
 
-Software Engineer with 4 years of experience focusing on the backend and infrastructure. Passionate about sharing knowledge and regularly contributing articles to dev.to, detailing my learning experiences. Dedicated to innovating and creating solutions to address real-world challenges.
+Started as a software engineer, now building as a founder.
+With several years in backend and infrastructure engineer.
+I’m bootstrapping a startup. learning by doing and preparing to take the leap to the US.
 
-🦄 Subscribe my story
+🦄 Subscribe my newsletter
 - [Substack](https://substack.com/@atsushiii)
 
 
