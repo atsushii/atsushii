@@ -11,7 +11,7 @@ I’m bootstrapping a startup. learning by doing and preparing to take the leap 
 📩 Contact:
 - atsushimiyamoto07@gmail.com
 - [Resume](https://resume.creddle.io/resume/bkhje2sa14q)
-- [LinkedIn](https://linktr.ee/atsushiii](https://www.linkedin.com/in/atsushi-miyamoto-aa38a3180/)
+- [LinkedIn](https://www.linkedin.com/in/atsushi-miyamoto-aa38a3180/)
 
 📝 My blog:
 - [Atsushi Miyamoto - DEV Community](https://dev.to/atsushii)
