@@ -2,7 +2,7 @@
 
 Started as a software engineer, now building as a founder.
 With several years in backend and infrastructure engineer.
-I’m bootstrapping a startup. learning by doing and preparing to take the leap to the US.
+I’m bootstrapping a startup.
 
 🦄 Subscribe my newsletter
 - [Substack](https://substack.com/@atsushiii)
